@@ -1,0 +1,7 @@
+ '{LawyerName}': lawyer_name,
+        '{LawyerPhone}': lawyer_phone,
+        '{LawyerEmail}': lawyer_email,
+        '{ClientName}': client_name,
+        '{ClientAddress}': client_address,
+        '{MatterDescription}': matter_description,
+        '{OpposingPartyName}': opposing_party_n
